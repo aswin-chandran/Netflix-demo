@@ -6,8 +6,10 @@
     padding: 20px;
     display: flex;
     justify-content: space-between;
-    background-color: #111;
+    background-image: linear-gradient(linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111));
     margin-left: 0;
+    
+    
 }
 
 .logo{
